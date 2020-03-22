@@ -40,3 +40,15 @@ h3 {
 h2 {
     color: white;
 }
+
+.logo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img {
+    width: 200px;
+    padding-right: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
