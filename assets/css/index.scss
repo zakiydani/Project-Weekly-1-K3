@@ -17,6 +17,10 @@ h2 {
     padding-left: 50px;
 }
 
+h3 {
+    color: white;
+}
+
 .nav-tabs>li.active>a{ 
     border-bottom: 2px solid #DF4E8D;
 }
@@ -24,7 +28,7 @@ h2 {
 .span4 img {
     display: flex;
     justify-content: space-evenly;
-    width: 310px;
+    width: 300px;
     margin-right: 10px;
 }
 .span4 .img-left {
@@ -32,4 +36,10 @@ h2 {
 }
 .span4 .img-right {
     float: right;
+}
+
+.partners {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 30px;
 }
