@@ -1,8 +1,6 @@
 @import 'color';
 
-h2 {
-    padding-left: 50px;
-}
+
 .img {
     display: flex;
     justify-content: space-evenly;
@@ -13,9 +11,6 @@ h2 {
     width: 310px;
 }
 
-.list {
-    padding-left: 50px;
-}
 
 h3 {
     color: white;
@@ -38,8 +33,10 @@ h3 {
     float: right;
 }
 
-.partners {
-    display: flex;
-    justify-content: space-evenly;
-    padding-left: 30px;
+.row {
+    padding-bottom: 50px;
+}
+
+h2 {
+    color: white;
 }
