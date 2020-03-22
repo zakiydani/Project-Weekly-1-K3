@@ -21,6 +21,10 @@ h2 {
   padding-left: 50px;
 }
 
+h3 {
+  color: white;
+}
+
 .nav-tabs > li.active > a {
   border-bottom: 2px solid #DF4E8D;
 }
@@ -32,7 +36,7 @@ h2 {
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
-  width: 310px;
+  width: 300px;
   margin-right: 10px;
 }
 
@@ -42,5 +46,15 @@ h2 {
 
 .span4 .img-right {
   float: right;
+}
+
+.partners {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  padding-left: 30px;
 }
 /*# sourceMappingURL=index.css.map */
