@@ -1,1 +1,35 @@
 @import 'color';
+
+h2 {
+    padding-left: 50px;
+}
+.img {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.figure {
+    width: 310px;
+}
+
+.list {
+    padding-left: 50px;
+}
+
+.nav-tabs>li.active>a{ 
+    border-bottom: 2px solid #DF4E8D;
+}
+
+.span4 img {
+    display: flex;
+    justify-content: space-evenly;
+    width: 310px;
+    margin-right: 10px;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
